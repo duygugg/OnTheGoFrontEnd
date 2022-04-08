@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470940145137",
+    "project_id": "duygumobileapp",
+    "storage_bucket": "duygumobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470940145137:android:70f54d28ab3a715840a050",
+        "android_client_info": {
+          "package_name": "com.duygumobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470940145137-20jif0d3df4b1a6m7ro0k5qeh9jl9ke2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN7ume2mKTZKIuScEdgcGGzPbdNrelg9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470940145137-20jif0d3df4b1a6m7ro0k5qeh9jl9ke2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
